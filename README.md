@@ -1,2 +1,3 @@
 # linux-2020-cuc-ty
-linux-2020-cuc-ty created by GitHub Classroom
+GitHub Classroom创建的linux-2020-cuc-ty
+cuc
